@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python virtual environment
+env/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data directory (if you don't want to track your data files)
+data/
+
+# OS specific files
+.DS_Store
