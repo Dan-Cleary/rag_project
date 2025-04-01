@@ -31,5 +31,4 @@ python main.py
 
 ## Features
 - Uses LlamaIndex for document indexing and retrieval
-- Integrates with OpenAI's GPT-4 for generation
 - Supports multiple document types through SimpleDirectoryReader 
