@@ -8,7 +8,7 @@ from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, Settings
 from llama_index.llms.openai import OpenAI
 
 # Configure to use GPT-4 by default
-Settings.llm = OpenAI(model="gpt-4o", temperature=0)
+Settings.llm = OpenAI(model="gpt-4", temperature=0)
 
 # 1. Load documents from the "data/" folder
 documents = SimpleDirectoryReader("data/").load_data()
