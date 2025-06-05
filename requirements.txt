@@ -1,3 +1,4 @@
-python-dotenv
 llama-index
-streamlit
+openai
+python-dotenv
+
