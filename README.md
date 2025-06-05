@@ -29,6 +29,11 @@ OPENAI_API_KEY=your_api_key_here
 python main.py
 ```
 
+6. Launch the Streamlit front end
+```bash
+streamlit run streamlit_app.py
+```
+
 ## Features
 - Uses LlamaIndex for document indexing and retrieval
-- Supports multiple document types through SimpleDirectoryReader 
+- Supports multiple document types through SimpleDirectoryReader
