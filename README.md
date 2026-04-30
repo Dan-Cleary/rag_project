@@ -37,3 +37,4 @@ streamlit run streamlit_app.py
 ## Features
 - Uses LlamaIndex for document indexing and retrieval
 - Supports multiple document types through SimpleDirectoryReader
+Hello from Otto
